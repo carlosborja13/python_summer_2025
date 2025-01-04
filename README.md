@@ -7,6 +7,11 @@ This is a course about Python for economist
 3. c
 4. d
 
+## Semester
+1. Seven
+2. Nine
+3. -
+
 ## Movies
 1. Openheimer
 2. Blade Runner
